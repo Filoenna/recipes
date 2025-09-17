@@ -1,0 +1,8 @@
+[project]
+name = "recipes-backend"
+version = "0.1.0"
+description = "FastAPI backend for Recipes app"
+requires-python = ">=3.11"
+
+[tool.uv]
+# uv-specific settings can be added here
